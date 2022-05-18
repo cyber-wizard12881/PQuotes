@@ -56,7 +56,7 @@ Then Run the command below ..... <br/>
 1. Ensure you are in the edb languagepack python 3.9 folder ... <br/>
 2. ```cd "C:\edb\languagepack\v2\Python-3.9"```
 3. ```pip3 install fuzzywuzzy``` <br/>
-That's it! You're Python dependencies are now setup!! <br/>
+That's it! Your Python dependencies are now setup!! <br/>
 
 
 ## Run the Function Now
